@@ -10,12 +10,16 @@ This directory contains the entire MIT-BIH Arrhythmia Database. About half (25 o
 
 Much more information about this database may be found in the MIT-BIH Arrhythmia Database Directory.
 
-
 ## Dataset Source: 
   - https://physionet.org/content/mitdb/1.0.0/
   
-## Annotation beats (table view) :
-  - https://archive.physionet.org/physiobank/database/html/mitdbdir/tables.htm#allbeats 
+## Annotation beats :
+  - Table view: https://archive.physionet.org/physiobank/database/html/mitdbdir/tables.htm#allbeats
+  - Annotation List: https://archive.physionet.org/physiobank/annotations.shtml
+  
+## Additional info:
+  - Sampling rate: https://www.researchgate.net/post/Whats_the_Sampling_Period_of_the_ECG_signal_in_MIT-BIH_database
+  - AAMI standard: https://www.researchgate.net/figure/Mapping-the-MIT-BIH-Arrhythmia-types-to-the-AAMI-Classes_tbl1_267411759
   
 ## Repo Outline:
 

@@ -20,6 +20,7 @@ Much more information about this database may be found in the MIT-BIH Arrhythmia
 ## Additional info:
   - Sampling rate: https://www.researchgate.net/post/Whats_the_Sampling_Period_of_the_ECG_signal_in_MIT-BIH_database
   - AAMI standard: https://www.researchgate.net/figure/Mapping-the-MIT-BIH-Arrhythmia-types-to-the-AAMI-Classes_tbl1_267411759
+  - ECG paper review: https://www.sciencedirect.com/science/article/pii/S0169260715003314
   
 ## Repo Outline:
 

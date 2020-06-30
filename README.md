@@ -19,7 +19,7 @@ This directory contains the entire MIT-BIH Arrhythmia Database. About half (25 o
 Much more information about this database may be found in the MIT-BIH Arrhythmia Database Directory.
 
 
-## Annotation beats :
+## Annotation beats:
   - Table view: https://archive.physionet.org/physiobank/database/html/mitdbdir/tables.htm#allbeats
   - Annotation List: https://archive.physionet.org/physiobank/annotations.shtml
   

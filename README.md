@@ -1,4 +1,5 @@
-# MITBIH_Arrhythmia_Database
+# MITBIH_Arrhythmia_Database_Basic
+- Basic how to view and use MITBIH Arrhythmia Database
 
 ## Repo Outline:
 - MITBIH_basic_info.ipynb [Click Here](https://github.com/triarts/MITBIH_Arrhythmia_Database/blob/master/MITBIH_basic_info.ipynb)

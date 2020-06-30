@@ -23,4 +23,7 @@ Much more information about this database may be found in the MIT-BIH Arrhythmia
   - ECG paper review: https://www.sciencedirect.com/science/article/pii/S0169260715003314
   
 ## Repo Outline:
-
+- MITBIH_basic_info.ipynb [Click Here](https://github.com/triarts/MITBIH_Arrhythmia_Database/blob/master/MITBIH_basic_info.ipynb)
+  - Basic view of MITBIH dataset, including how to load data, Patient Metadata(Header), Gender, Channel, Categorize based on channel.
+- MITBIH_save_to_csv.ipynb [Click Here](https://github.com/triarts/MITBIH_Arrhythmia_Database/blob/master/MITBIH_save_to_csv.ipynb)
+- MITBIH_save_to_numpy.ipynb [Click Here](https://github.com/triarts/MITBIH_Arrhythmia_Database/blob/master/MITBIH_save_to_numpy.ipynb)

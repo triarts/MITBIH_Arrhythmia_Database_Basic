@@ -1,5 +1,14 @@
 # MITBIH_Arrhythmia_Database
 
+## Repo Outline:
+- MITBIH_basic_info.ipynb [Click Here](https://github.com/triarts/MITBIH_Arrhythmia_Database/blob/master/MITBIH_basic_info.ipynb)
+  - Basic view of MITBIH dataset, including how to load data, Patient Metadata(Header), Gender, Channel, Categorize based on channel.
+- MITBIH_save_to_csv.ipynb [Click Here](https://github.com/triarts/MITBIH_Arrhythmia_Database/blob/master/MITBIH_save_to_csv.ipynb)
+- MITBIH_save_to_numpy.ipynb [Click Here](https://github.com/triarts/MITBIH_Arrhythmia_Database/blob/master/MITBIH_save_to_numpy.ipynb)
+
+## Dataset Source: 
+  - https://physionet.org/content/mitdb/1.0.0/
+
 ## About Database: [(source)](https://physionet.org/content/mitdb/1.0.0/)
 The MIT-BIH Arrhythmia Database contains 48 half-hour excerpts of two-channel ambulatory ECG recordings, obtained from 47 subjects studied by the BIH Arrhythmia Laboratory between 1975 and 1979. Twenty-three recordings were chosen at random from a set of 4000 24-hour ambulatory ECG recordings collected from a mixed population of inpatients (about 60%) and outpatients (about 40%) at Boston's Beth Israel Hospital; the remaining 25 recordings were selected from the same set to include less common but clinically significant arrhythmias that would not be well-represented in a small random sample.
 
@@ -9,9 +18,7 @@ This directory contains the entire MIT-BIH Arrhythmia Database. About half (25 o
 
 Much more information about this database may be found in the MIT-BIH Arrhythmia Database Directory.
 
-## Dataset Source: 
-  - https://physionet.org/content/mitdb/1.0.0/
-  
+
 ## Annotation beats :
   - Table view: https://archive.physionet.org/physiobank/database/html/mitdbdir/tables.htm#allbeats
   - Annotation List: https://archive.physionet.org/physiobank/annotations.shtml
@@ -21,9 +28,3 @@ Much more information about this database may be found in the MIT-BIH Arrhythmia
   - Sampling rate: https://www.researchgate.net/post/Whats_the_Sampling_Period_of_the_ECG_signal_in_MIT-BIH_database
   - AAMI standard: https://www.researchgate.net/figure/Mapping-the-MIT-BIH-Arrhythmia-types-to-the-AAMI-Classes_tbl1_267411759
   - ECG paper review: https://www.sciencedirect.com/science/article/pii/S0169260715003314
-  
-## Repo Outline:
-- MITBIH_basic_info.ipynb [Click Here](https://github.com/triarts/MITBIH_Arrhythmia_Database/blob/master/MITBIH_basic_info.ipynb)
-  - Basic view of MITBIH dataset, including how to load data, Patient Metadata(Header), Gender, Channel, Categorize based on channel.
-- MITBIH_save_to_csv.ipynb [Click Here](https://github.com/triarts/MITBIH_Arrhythmia_Database/blob/master/MITBIH_save_to_csv.ipynb)
-- MITBIH_save_to_numpy.ipynb [Click Here](https://github.com/triarts/MITBIH_Arrhythmia_Database/blob/master/MITBIH_save_to_numpy.ipynb)

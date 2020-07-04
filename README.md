@@ -37,5 +37,5 @@ Much more information about this database may be found in the MIT-BIH Arrhythmia
 
 ---
 ```
-**Please consider to give a star if you find this Repo is useful! :D**
+Please consider to give a star if you find this Repo is useful! :D
 ```

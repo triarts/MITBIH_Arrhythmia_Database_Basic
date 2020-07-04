@@ -1,4 +1,4 @@
-# MITBIH_Arrhythmia_Database_Basic
+# MITBIH Arrhythmia Database Basic
 - Basic how to view and use MITBIH Arrhythmia Database
 
 ## Repo Outline:
@@ -37,5 +37,5 @@ Much more information about this database may be found in the MIT-BIH Arrhythmia
 
 ---
 ```
-**Please consider give  a star if you find this Repo is useful! :D**
+**Please consider to give a star if you find this Repo is useful! :D**
 ```

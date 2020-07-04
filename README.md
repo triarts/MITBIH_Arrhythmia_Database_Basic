@@ -1,5 +1,5 @@
-# MITBIH Arrhythmia Database Basic
-- Basic how to view and use MITBIH Arrhythmia Database
+# MITBIH Arrhythmia Database - Basic
+- Basic how to view and use MITBIH Arrhythmia Database in python, run at jupyter notebook
 
 ## Repo Outline:
 - MITBIH_basic_info.ipynb [Click Here](https://github.com/triarts/MITBIH_Arrhythmia_Database/blob/master/MITBIH_basic_info.ipynb)
